@@ -1,0 +1,8 @@
+O script utiliza os seguintes programas que devem estar instalados no Linux e adicionados ao PATH:
+  - Blast
+  - FastQC
+  - Trimmomatic
+  - fq2fa
+  
+Algumas alterações devem ser feitas ao código para que este possa rodar normalmente, o local de criação do database para o BlastN deve ser ajustado
+bem como a sua menção no comando BlastN
